@@ -26,7 +26,7 @@
         <!-- endregion -->
         <h2.version>1.4.200</h2.version>
         <hibernate-core.version>5.4.4.Final</hibernate-core.version>
-        <log4j.version>2.13.3</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <junit.jupiter.version>5.5.1</junit.jupiter.version>
         <mockito-core.version>3.0.0</mockito-core.version>
         <assertj-core.version>3.13.2</assertj-core.version>
